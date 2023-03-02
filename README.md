@@ -1,0 +1,3 @@
+# My-Application
+
+The purpose of this assignment is to show the basic lifecycle transitions for activity instance. This has been implemented by creating an application that consists of 2 activities, and 2 fragments. Different states of an activity lifecycle are displayed in the application’s user interface by using toast messages. We have also deployed a counter at the top of each activity’s UI to keep track of how many times a state within that activity has been called. The counter resets to zero once the activity has been destroyed. The toast notifications, and the counter, give the user of this app a hands-on idea of the activity lifecycle and it’s various states.
